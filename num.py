@@ -28,5 +28,4 @@ def main():
     else:
         print(f"'{num1}' is not divisible by '{num2}'")
 
-if _name_ == "_main_":
-    main()
+
